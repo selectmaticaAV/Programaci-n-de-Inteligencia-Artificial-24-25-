@@ -8,4 +8,4 @@ Este repositorio contiene recursos, ejercicios y ejemplos prácticos del curso *
 
 ```python
 print("Hola Mundo")
-
+```
